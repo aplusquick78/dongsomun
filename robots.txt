@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dongsomun.8222quick.com/sitemap.xml
+
+
+
